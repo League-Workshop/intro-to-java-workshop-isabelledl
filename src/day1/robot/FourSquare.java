@@ -7,7 +7,7 @@ public class FourSquare {
 	
 	// 2. Create a new Robot
 	
-
+Robot 
 	void go() {
 		// 4. Make the robot move as fast as possible
 

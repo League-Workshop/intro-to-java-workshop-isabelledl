@@ -24,7 +24,7 @@ public class PentagonCrazy {
 		int angle = 360 / sides;
 		// 7. Do steps #2 to #11, 200 times. When this is done you should see a
 		// pentagon.
-		for (int i = 0; i < 200; i++) {
+		for (int i = 0; i < 20000; i++) {
 
 			// 2. Move the robot 200 pixels
 			Sam.move(i);
